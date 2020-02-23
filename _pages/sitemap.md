@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /sitemap/
+permalink: https://dominicwllmsn.github.io/sitemap/
 author_profile: true
 ---
 

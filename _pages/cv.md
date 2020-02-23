@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://dominicwllmsn.github.io/cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - https://dominicwllmsn.github.io/resume
 ---
 
 {% include base_path %}
