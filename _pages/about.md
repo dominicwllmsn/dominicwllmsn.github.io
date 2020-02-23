@@ -1,11 +1,11 @@
 ---
-permalink: https://dominicwllmsn.github.io
+permalink: /
 title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
-  - https://dominicwllmsn.github.io/about/
-  - https://dominicwllmsn.github.io/about.html
+  - /about/
+  - /about.html
 ---
 I am an Msc student in AI at [Imperial College London](https://www.imperial.ac.uk/computing/research/artificial-intelligence/') - currently enrolled in taught courses addressing modern connectionist AI approaches, as well as a number of courses on "Good Old Fashioned AI". As a novice, I have opted for an egalitarian prior, and believe that the "right answer" will probably draw from both schools of thought; consequently, I am also learning about neuro-symbolic approaches to AI as part of an Independent Study Module under the supervision of [Prof. A Russo](https://wp.doc.ic.ac.uk/arusso/).
 
