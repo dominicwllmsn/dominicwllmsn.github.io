@@ -83,11 +83,11 @@ author:
   name             : "Dominic Williamson"
   avatar           : "profile.png"
   bio              : "MSc student studying Artificial Intelligence at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>. Graduated with a 1st in Theoretical Physics from the University of Manchester."
-  location         : # "Location"
+  location         : "London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : djwllmsn@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : dominic-williamson-995102141
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
