@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://dominicwllmsn.github.io/publications/
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -10,13 +10,13 @@ main:
   #   url: /teaching/    
     
   - title: "Projects"
-    url: https://dominicwllmsn.github.io/projects/
+    url: /projects/
         
   - title: "Blog Posts"
-    url: https://dominicwllmsn.github.io/blog/
+    url: /blog/
     
   - title: "CV"
-    url: https://dominicwllmsn.github.io/cv/
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
