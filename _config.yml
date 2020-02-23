@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
@@ -219,7 +219,7 @@ defaults:
       share: true
       comments: false
       sidebar: false
-  # _publications
+   _publications
   - scope:
       path: ""
       type: publications
@@ -228,7 +228,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+   _projects
   - scope:
       path: ""
       type: projects
