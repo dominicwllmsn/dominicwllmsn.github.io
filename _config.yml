@@ -49,38 +49,38 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# # SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# alexa_site_verification  :
+# yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# # Social Sharing
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# # Analytics
+# analytics:
+#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Dominic Williamson"
+  name             : "dominicwllmsn"
   avatar           : "profile.png"
   bio              : "MSc student studying Artificial Intelligence at <a href="https://www.imperial.ac.uk/computing/research/artificial-intelligence/">Imperial College London</a>. Graduated in with a 1st in Theoretical Physics from the University of Manchester."
   location         : # "Location"
