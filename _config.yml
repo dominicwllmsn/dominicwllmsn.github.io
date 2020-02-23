@@ -11,7 +11,7 @@ title                    : "Dominic Williamson"
 title_separator          : "-"
 name                     : &name "Dominic Williamson"
 description              : &description "MSc Student at Imperial College London"
-url                      : dominicwllmsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dominicwllmsn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dominicwllmsn/dominicwllmsn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -69,6 +69,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+
 
 
 # Analytics
