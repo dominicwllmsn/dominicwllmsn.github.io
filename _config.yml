@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "A. Spies"
+title                    : "Dominic Williamson"
 title_separator          : "-"
-name                     : &name "Alexander Fabian Spies"
+name                     : &name "Dominic Williamson"
 description              : &description "MSc Student at Imperial College London"
-url                      : "https://dominicwllmsn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : dominicwllmsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dominicwllmsn/dominicwllmsn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander F. Spies"
-  avatar           : "profile.jpg"
-  bio              : "Msc student in AI and ML at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>.<br/> Interested in robust and generalizable AI approaches - currently investigating Neuro-symbolic hybrid approaches, as they present a logical solution."
-  location         : 
-  employer         : "Imperial College London"
-  googlescholar    : "https://scholar.google.com/citations?user=Jfp2pAQAAAAJ"
-  email            : "alex@afspies.com"
-  researchgate     : "https://www.researchgate.net/profile/Alexander_Spies"
+  name             : "Dominic Williamson"
+  avatar           : "profile.png"
+  bio              : "MSc student studying Artificial Intelligence at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>. Graduated with a 1st in Theoretical Physics from the University of Manchester."
+  location         : "London, UK"
+  employer         : 
+  googlescholar    : 
+  email            : "djwllmsn@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "afspies"
+  github           : "dominicwllmsn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "afspies"
-  orcid            : "https://orcid.org/0000-0002-8708-1530"
+  linkedin         : "dominic-williamson-995102141"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "afspies"
+  twitter          : "dominicjwllmsn"
   vine             :
   weibo            :
   xing             :
