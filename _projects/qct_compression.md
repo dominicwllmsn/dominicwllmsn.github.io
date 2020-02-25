@@ -17,4 +17,5 @@ both localling using Numpy and Matplotlib and on a distributed computing cluster
 See the paper [here](https://onlinelibrary.wiley.com/doi/full/10.1002/open.201800275).
 
 <img src="/images/projects/qct_compression/front_cover.jpg" alt="Pleased" style="border-radius:2%;width:80%;align:center;" />
+
 *Front cover featuring the paper in May 2019*

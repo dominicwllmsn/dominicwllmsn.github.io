@@ -10,6 +10,8 @@ biburl: /files/2019-02-topological-compression/pericles_219113638.bib
 citation: 'B. C. B. Symons, <b>D. J. Williamson</b>, C. M. Brooks, A. L. Wilson, P. L. A. Popelier (2019). Does the Intra‐Atomic 
 Deformation Energy of Interacting Quantum Atoms Represent Steric Energy? <i>ChemistryOpen</i>.'
 ---
+**Abstract**: 
+'''
 We show that the mutual, through‐space compression of atomic volume experienced by approaching topological atoms causes an exponential 
 increase in the intra‐atomic energy of those atoms, regardless of approach orientation. This insight was obtained using the modern energy 
 partitioning method called interacting quantum atoms (IQA). This behaviour is consistent for all atoms except hydrogen, which can behave 
@@ -18,6 +20,7 @@ hydrogen atom is more vulnerable to these changes than larger atoms. The differe
 a core of electrons, which, in heavier atoms, consistently provide repulsion when compressed. As such, hydrogen atoms do not always provide 
 steric hindrance. In accounting for hydrogen's unusual behaviour and demonstrating the exponential character of the intra‐atomic energy in 
 all other atoms, we provide evidence for IQA's intra‐atomic energy as a quantitative description of steric energy.
+'''
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/open.201800275)
 

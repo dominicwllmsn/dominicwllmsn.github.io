@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: https://dominicwllmsn.github.io/publications/
+permalink: /publications/
 ---
 
 {% if author.googlescholar %}
