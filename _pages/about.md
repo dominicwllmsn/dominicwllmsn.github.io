@@ -18,7 +18,7 @@ in generative modelling and its ability to excel in the creation of music based 
 by [Magenta](https://magenta.tensorflow.org/transformer-autoencoder). 
 
 I have spent considerable time performing research, initially working with machine learning models in 
-[quantum chemistry](publication/2019-09-charge-sharing) in the Quantum Chemical Topology group at the University of Manchester. 
+[quantum chemistry](publication/2019-09-charge-sharing) in the Quantum Chemical Topology group at the University of Manchester[^1]. 
 I then worked on utilising transfer learning to [detect tumours in MRI images of the brain](files/projects/Alex_Spies-DESY_summer_essay.pdf) 
 as a research intern in the Manchester Computer Science Department[^2]. Developing a pretrained variational 
 autoencoder in this project (based on a separate image dataset) prompted me to research further into deep learning, and generative deep learning 
