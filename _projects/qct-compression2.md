@@ -1,5 +1,5 @@
 ---
-title: "Investigating the repulsive behaviour of topological atoms under compression"
+title: "2Investigating the repulsive behaviour of topological atoms under compression"
 excerpt: "Testing the consistency of machine learning models in quantum chemistry <br/> <img src='/images/projects/qct_compression/preamble.jpg' alt='Preamble image included in the final paper, credit D. Williamson' style='width:60%;border-radius:2%;' > "
 collection: projects
 ---
