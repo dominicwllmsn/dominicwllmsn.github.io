@@ -219,19 +219,19 @@ defaults:
       share: true
       comments: false
       sidebar: false
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _publications
   - scope:
       path: ""
-      type: projects
+      type: publications
     values:
       layout: single
       author_profile: true

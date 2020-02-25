@@ -17,12 +17,11 @@ My academic interest is in deep learning, especially when applied to problems in
 in generative modelling and its ability to excel in the creation of music based upon motifs and repetition, such as here 
 by [Magenta](https://magenta.tensorflow.org/transformer-autoencoder). 
 
-I have spent considerable time performing research, having worked with machine learning models in 
-[quantum chemistry](publication/2019-09-charge-sharing) with [P.L.P Popelier](https://scholar.google.com/citations?user=VlFNR0wAAAAJ&hl=en) 
-in the Quantum Chemical Topology group at the University of Manchester. I then worked on utilising transfer learning to 
-[detect tumours in MRI images of the brain](files/projects/Alex_Spies-DESY_summer_essay.pdf) as a research intern in the Manchester Computer 
-Science Department with [F. Costen](https://www.research.manchester.ac.uk/portal/fumie.costen.html). Deciding to develop a pretrained variational 
-autoencoder in this project based on a separate dataset prompted me to research further into deep learning, and generative deep learning 
+I have spent considerable time performing research, initially working with machine learning models in 
+[quantum chemistry](publication/2019-09-charge-sharing) in the Quantum Chemical Topology group at the University of Manchester. 
+I then worked on utilising transfer learning to [detect tumours in MRI images of the brain](files/projects/Alex_Spies-DESY_summer_essay.pdf) 
+as a research intern in the Manchester Computer Science Department[^2]. Developing a pretrained variational 
+autoencoder in this project (based on a separate image dataset) prompted me to research further into deep learning, and generative deep learning 
 specifically.
 
 In the research I have participated in so far, I have been fortunate enough to have been exposed to a number of applications of 
@@ -33,3 +32,6 @@ I decided to pursue an MSc at Imperial College London, specializing in AI. At pr
 as these may yield models which address the shortcomings of both methods individually; yielding greater data efficiency, and 
 (out of distribution) generalizability, whilst also allowing for easier integration of expert knowledge and vastly superior 
 interpretability (a desirable feature for algorithms which are becoming increasingly ubiquitous).
+
+[^1]: Under the supervision of [P.L.P. Popelier](https://scholar.google.com/citations?user=VlFNR0wAAAAJ&hl=en)
+[^2]: Under the supervision of [F. Costen](https://www.research.manchester.ac.uk/portal/fumie.costen.html)
