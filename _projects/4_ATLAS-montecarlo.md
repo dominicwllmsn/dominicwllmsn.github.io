@@ -1,6 +1,6 @@
 ---
 title: "ROOT analysis of Monte Carlo particle physics simulations with ATLAS OpenData"
-excerpt: "Analysed simulated and real data of particle physics collisions using C++ with ROOT <br/>*C++, ROOT*<br/> 
+excerpt: "Analysed simulated and real data of particle physics collisions using C++ with ROOT <br/>*{C++, ROOT}*<br/> 
 <img src='/images/projects/ATLAS_montecarlo/opendata-header.png' alt='ATLAS OpenData' style='width:60%;border-radius:2%;' >"
 collection: projects
 ---
