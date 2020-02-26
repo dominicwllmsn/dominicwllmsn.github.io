@@ -13,7 +13,7 @@ in Physics: https://www.nobelprize.org/prizes/physics/2016/summary/.
 The finished simulation and data analysis software involved various features such as a fast Fourier transform to calculate 
 the correlation between spins and the bootstrap statistical binning for error determination.
 
-See the project [here](https://github.com/dominicwllmsn/markovchain_simulations).
+See the project [here](https://github.com/dominicwllmsn/markovchain_simulations) and our final report [here](https://github.com/dominicwllmsn/markovchain_simulations/blob/master/ising-report-final.pdf).
 
 <img src="/images/projects/markovchain_simulations/GIF_combined.gif" alt="Pleased" style="align:center" />
 
