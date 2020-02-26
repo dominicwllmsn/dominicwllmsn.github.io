@@ -1,10 +1,11 @@
 ---
 title: "Investigating the repulsive behaviour of topological atoms under compression"
-excerpt: "Testing the consistency of machine learning models in quantum chemistry <br/> <img src='/images/projects/qct_compression/preamble.jpg' alt='Preamble image included in the final paper, credit D. Williamson' style='width:60%;border-radius:2%;' > "
+excerpt: "Testing the consistency of machine learning models in quantum chemistry <br/>*Python, Fortran, Gaussian, bash, high performance computing*<br/> 
+<img src='/images/projects/qct_compression/preamble.jpg' alt='Preamble image included in the final paper, credit D. Williamson' style='width:60%;border-radius:2%;' > "
 collection: projects
 ---
 
-The Quantum Chemical Topology group is using machine learning to develop a computer model that can accurately 
+The Quantum Chemical Topology group is using machine learning to develop a computer model (based in Fortran) that can accurately 
 simulate the behaviour of proteins, specifically with the aim of more fundamentally understanding the onset of Alzheimer’s disease. 
 
 My research looked at the energetics of the compression of [topological atoms](https://www.chemistry.mcmaster.ca/aim/aim_3.html) 
