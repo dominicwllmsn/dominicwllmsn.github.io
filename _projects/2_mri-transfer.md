@@ -1,6 +1,6 @@
 ---
 title: "Using transfer learning to detect illnesses in the brain"
-excerpt: "Developing transfer learning models to detect tumours in 3D images of the brain <br/>*{Python, PyTorch, Keras, Numpy, tcsh, high performance computing}*<br/> 
+excerpt: "Developing transfer learning models to detect tumours in 3D images of the brain <br/>*{Python, PyTorch, Numpy, tcsh, high performance computing}*<br/> 
 <img src='/images/projects/mri_transfer/mri_project.png' alt='Brain registration, skullstripping, VAE autoencoder' style='width:60%;border-radius:2%;' > "
 collection: projects
 ---
