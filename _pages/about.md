@@ -34,5 +34,5 @@ as these may yield models which address the shortcomings of both methods individ
 (out of distribution) generalizability, whilst also allowing for easier integration of expert knowledge and vastly superior 
 interpretability (a desirable feature for algorithms which are becoming increasingly ubiquitous).
 
-[^1]: Under the supervision of [P.L.P. Popelier](https://scholar.google.com/citations?user=VlFNR0wAAAAJ&hl=en)
-[^2]: Under the supervision of [F. Costen](https://www.research.manchester.ac.uk/portal/fumie.costen.html)
+[^1]: Under the supervision of [Prof Paul Popelier](https://scholar.google.com/citations?user=VlFNR0wAAAAJ&hl=en)
+[^2]: Under the supervision of [Dr Fumie Costen](https://www.research.manchester.ac.uk/portal/fumie.costen.html)
