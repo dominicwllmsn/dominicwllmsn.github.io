@@ -1,7 +1,7 @@
 ---
 title: "Markov chain Monte Carlo extensions of the Ising model"
 excerpt: "Creating extensions of magnetic spin models, including the 2D XY model - demonstrated emergence vortices and anti-vortices <br/>*Python*<br/> 
-<img src='/images/projects/markovchain_simulations/2D3D_combined.png' alt='2D XY model, 3D Heisenberg model' style='width:60%;border-radius:2%;align:center' >"
+<img src='/images/projects/markovchain_simulations/2D3D_combined.png' alt='2D XY model, 3D Heisenberg model' style='width:60%;border-radius:2%;align:center;' >"
 collection: projects
 ---
 
