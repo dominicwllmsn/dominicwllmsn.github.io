@@ -15,7 +15,7 @@ the correlation between spins and the bootstrap statistical binning for error de
 
 See the project [here](https://github.com/dominicwllmsn/markovchain_simulations).
 
-<img src="/images/projects/markovchain_simulations/GIF_combined.gif" alt="Pleased" style="border-radius:2%;width:80%;align:center;" />
+<img src="/images/projects/markovchain_simulations/GIF_combined.gif" alt="Pleased" style="align:center" />
 
 *2D XY model, illustrating the formation of vortices (blue, where all spins point to the same point) and anti-vortices 
 (red, where all spins point away from the same point), as well as the 3D Heisenberg model*
