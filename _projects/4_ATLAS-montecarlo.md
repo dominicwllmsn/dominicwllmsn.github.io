@@ -14,5 +14,5 @@ See the project [here](https://github.com/dominicwllmsn/ATLAS-montecarlo) and ou
 
 <img src="/images/projects/ATLAS_montecarlo/combined.png" alt="Pleased" style="align:center" />
 
-*Histograms featuring simulation data (red) and real data (blue) for the __gg → H → 4 lepton__ decay channel and the __Z-boson → electron decay__. 
-The difference between red and blue histograms is a result of irremovable background events (generally due to strong interactions)*
+*Histograms featuring simulation data (red) and real data (blue) for the __gg → H → 4 lepton__ decay channel and the __Z-boson → electron decay__ 
+respectively. The difference between red and blue histograms is a result of irremovable background events (generally due to strong interactions)*
