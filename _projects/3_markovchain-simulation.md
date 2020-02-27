@@ -9,7 +9,12 @@ This project consists of simulation software and an accompanying report on Marko
 spin models (specifically extensions of the Ising model). The software was written in Python and grew over time to encompass several 
 different MCMC simulations of increasing complexity. We worked from the Metropolis algorithm to variations on the Wolff algorithm and 
 the 2D XY model - observing (anti-)vortex phenomena not dissimilar to that featured in the work leading to the 2016 Nobel Prize 
-in Physics: https://www.nobelprize.org/prizes/physics/2016/summary/. 
+in Physics: https://www.nobelprize.org/prizes/physics/2016/summary/.
+
+In the 2D XY model there are excitations with nontrivial topology - vortices and anti-vortices (marked by blue and red circles below). 
+These manifest when the angles of the surrounding spins sum to ±2π. The 2D XY model is the dual of the 2D Coulomb model; therefore, 
+the two types of vortex correspond to electrical charges with opposite signs. As with electrical charges, vortex and anti-vortex generally attract 
+each other and annihilate.
 
 The finished simulation and data analysis software involved various features such as a fast Fourier transform to calculate 
 the correlation between spins and the bootstrap statistical binning for error determination.
