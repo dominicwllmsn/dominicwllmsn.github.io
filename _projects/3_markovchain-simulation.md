@@ -13,8 +13,9 @@ in Physics: https://www.nobelprize.org/prizes/physics/2016/summary/.
 
 In the 2D XY model there are excitations with nontrivial topology - vortices and anti-vortices (marked by blue and red circles below). 
 These manifest when the angles of the surrounding spins sum to ±2π. The 2D XY model is the dual of the 2D Coulomb model; therefore, 
-the two types of vortex correspond to electrical charges with opposite signs. As with electrical charges, vortex and anti-vortex generally attract 
-each other and annihilate.
+the two types of vortex correspond to electrical point charges with opposite signs. As with electrical charges, vortex and anti-vortex 
+generally attract each other and annihilate. Furthermore, they only appear in pairs in our simulations due to periodic boundary conditions, 
+analagous to pair production of an electron and positron in physics.
 
 The finished simulation and data analysis software involved various features such as a fast Fourier transform to calculate 
 the correlation between spins and the bootstrap statistical binning for error determination.
