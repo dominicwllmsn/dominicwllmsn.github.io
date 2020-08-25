@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an MSc student in AI at Imperial College London - currently enrolled in taught courses addressing modern connectionist AI approaches, 
-as well as a number of courses on "Good Old Fashioned AI". As a novice, I have opted for an egalitarian prior, and believe that the 
-"right answer" will probably draw from both schools of thought; consequently, I am also learning about neuro-symbolic approaches to AI 
-as part of an Independent Study Module under the supervision of [Prof. A Russo](https://wp.doc.ic.ac.uk/arusso/).
+I am an MSc student in AI at Imperial College London - currently in my first semester recieving taught courses addressing modern connectionist AI 
+approaches, as well as a number of courses on "Good Old Fashioned AI". My main interest is in the use of transfer learning to utilse the relevant 
+knowledge gained from a source learning scenario and applying it to a related task. 
 
 ## Research Experience
 My academic interest is in deep learning, especially when applied to problems in computer vision. I have also recently developed an interest 
