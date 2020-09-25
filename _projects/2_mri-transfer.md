@@ -18,6 +18,6 @@ understanding of object-oriented design was important to produce software that c
 
 See the project [here](https://github.com/dominicwllmsn/MRI_transferlearn).
 
-<img src="/images/projects/mri_transfer/itk_snap_multi.png" alt="Pleased" style="border-radius:2%;width:80%;align:center;" />
+<img src="/images/projects/mri_transfer/itk_snap_multi2.png" alt="Pleased" style="border-radius:2%;width:80%;align:center;" />
 
 *ITK-Snap MRI viewer used in the project for preprocessing/checking file integrity*
