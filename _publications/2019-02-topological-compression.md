@@ -22,6 +22,7 @@ all other atoms, we provide evidence for IQA's intra‐atomic energy as a quanti
 
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/open.201800275)
+
 [See project description here](https://dominicwllmsn.github.io/projects/1_qct-compression/)
 
 
