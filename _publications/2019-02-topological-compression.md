@@ -5,7 +5,7 @@ permalink: /publication/2019-02-topological-compression
 excerpt: 'Investigating the change in energetics (due to steric effects) of topological atoms due to multi-directional compression.'
 date: 2019-02-08
 venue: 'ChemistryOpen'
-paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/open.201800275'
+paperurl: 'chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/open.201800275'
 biburl: /files/2019-02-topological-compression/pericles_219113638.bib
 citation: 'B. C. B. Symons, <b>D. J. Williamson</b>, C. M. Brooks, A. L. Wilson, P. L. A. Popelier (2019). Does the Intra‐Atomic 
 Deformation Energy of Interacting Quantum Atoms Represent Steric Energy? <i>ChemistryOpen</i>.'

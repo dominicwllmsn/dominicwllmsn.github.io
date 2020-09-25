@@ -19,7 +19,7 @@ by [Magenta](https://magenta.tensorflow.org/transformer-autoencoder).
 I have spent considerable time performing research, initially working with machine learning models in 
 [quantum chemistry](publication/2019-02-topological-compression) in the Quantum Chemical Topology group at the University of Manchester[^1].
 
-I then worked on leveraging transfer learning to [detect tumours in MRI images of the brain](files/projects/Alex_Spies-DESY_summer_essay.pdf) 
+I then worked on leveraging transfer learning to [detect tumours in MRI images of the brain](dominicwllmsn.github.io/projects/2_mri-transfer/) 
 as a research intern in the University of Manchester Computer Science Department[^2]. Developing a pretrained variational 
 autoencoder in this project (based on a separate image dataset) prompted me to research further into deep learning, and generative deep learning 
 specifically.
