@@ -8,7 +8,7 @@ collection: projects
 This project consists of simulation software and an accompanying report on Markov Chain Monte Carlo (MCMC) simulations of magnetic 
 spin models (specifically extensions of the Ising model). The software was written in Python and grew over time to encompass several 
 different MCMC simulations of increasing complexity. We worked from the Metropolis algorithm to variations on the Wolff algorithm and 
-the 2D XY model - observing (anti-)vortex phenomena not dissimilar to that featured in the work leading to the 2016 Nobel Prize 
+the 2D XY model - observing vortex/anti-vortex phenomena not dissimilar to that featured in the work leading to the 2016 Nobel Prize 
 in Physics: https://www.nobelprize.org/prizes/physics/2016/summary/.
 
 In the 2D XY model there are excitations with nontrivial topology - vortices and anti-vortices (marked by blue and red circles below). 

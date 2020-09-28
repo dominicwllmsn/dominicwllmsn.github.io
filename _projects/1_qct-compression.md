@@ -13,7 +13,7 @@ and involved testing whether the results were consistent with more traditional m
 
 I was involved the design and execution of a set of computational experiments which often had to be created in Python from scratch. 
 These were submitted to Gaussian using bash before being run and analysed on a high-performance computer cluster. Data analysis was done 
-both localling using Numpy and Matplotlib and on a distributed computing cluster using bash.
+both locally using Numpy and Matplotlib and on a distributed computing cluster using bash.
 
 See the paper [here](https://onlinelibrary.wiley.com/doi/full/10.1002/open.201800275).
 
