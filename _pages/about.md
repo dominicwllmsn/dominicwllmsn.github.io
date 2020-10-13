@@ -13,7 +13,7 @@ learning approaches such as Reinforcement Learning, as well as a number of cours
 Recently I have developed an interest in generative modelling and its ability to excel in the creation of music based upon motifs and repetition, such as here by [Magenta](https://magenta.tensorflow.org/transformer-autoencoder). 
 
 ## Research Experience
-I have spent considerable time performing research, initially working with machine learning models in [quantum chemistry](publication/2019-02-topological-compression) in the Quantum Chemical Topology group at the University of Manchester[^1].
+I have thoroughly enjoyed the two reasearch internships I have been able to participate in so far. My first exposure to machine learning models was in [quantum chemistry](publication/2019-02-topological-compression) in the Quantum Chemical Topology group at the University of Manchester[^1]. Here I created [simulations of topological atoms and molecules](https://dominicwllmsn.github.io/projects/1_qct-compression/) and studied their energy decomposition as they were brought together and compressed.
 
 I then worked on leveraging transfer learning to [detect tumours in MRI images of the brain](dominicwllmsn.github.io/projects/2_mri-transfer/) as a research intern in the University of Manchester Computer Science Department[^2]. Developing a pretrained variational autoencoder in this project (based on a separate image dataset) prompted me to research further into deep learning, and generative deep learning specifically.
 
