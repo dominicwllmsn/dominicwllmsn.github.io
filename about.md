@@ -17,7 +17,7 @@ I have thoroughly enjoyed the two research internships I have been able to parti
 
 I then worked on leveraging transfer learning to [detect tumours in MRI images of the brain](dominicwllmsn.github.io/projects/2_mri-transfer/) as a research intern in the University of Manchester Computer Science Department[^2]. Developing a pretrained variational autoencoder in this project (based on a separate image dataset) prompted me to research further into deep learning, and generative deep learning specifically.
 
-In the research I have participated in so far, I have been fortunate enough to have been exposed to a number of applications of machine learning and I feel that this has illustrated the potential of AI to solve in a variety of interesting problems.
+In the research I have participated in so far, I have been fortunate enough to have been exposed to a number of applications of machine learning and I feel that this has illustrated the potential of AI to be applied to a variety of interesting problem areas.
 
 Having learnt about both the incredible progress and present challenges of deep learning and AI more generally, I decided to pursue an MSc at Imperial College London, specializing in AI. At present I am most excited by domain adaptation/transfer learning, especially when applied to data-intensive reinforcement learning scenarios; ideally yielding greater data efficiency and (out of distribution) generalizability.
 
