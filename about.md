@@ -19,7 +19,7 @@ I then worked on leveraging transfer learning to [detect tumours in MRI images o
 
 In the research I have participated in so far, I have been fortunate enough to have been exposed to a number of applications of machine learning and I feel that this has illustrated the potential of AI to be applied to a variety of interesting problem areas.
 
-Having learnt about both the incredible progress and present challenges of deep learning and AI more generally, I decided to pursue an MSc at Imperial College London, specializing in AI. At present I am most excited by domain adaptation/transfer learning, especially when applied to data-intensive reinforcement learning scenarios; ideally yielding greater data efficiency and (out of distribution) generalizability.
+Having learnt about both the incredible progress and present challenges of deep learning and AI more generally, I decided to pursue an MSc at Imperial College London, specializing in AI. At present I am most excited by domain adaptation/transfer learning, especially when applied to data-scarce target domains such as in medical imaging; ideally yielding greater data efficiency and (out of distribution) generalisability.
 
 [^1]: Under the supervision of [Prof Paul Popelier](https://scholar.google.com/citations?user=VlFNR0wAAAAJ&hl=en)
 [^2]: Under the supervision of [Dr Fumie Costen](https://www.research.manchester.ac.uk/portal/fumie.costen.html)
