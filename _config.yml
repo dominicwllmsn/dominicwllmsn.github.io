@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dominic Williamson"
   avatar           : "profile.png"
-  bio              : "Research student using machine learning to study links between the eye and systemic disease at <a href='https://www.ucl.ac.uk/health-informatics/'>UCL IHI</a>, <a href='https://www.moorfields.nhs.uk/'>Moorfields</a>, and <a href='https://www.ucl.ac.uk/medical-image-computing/'>CMIC</a>. Graduated with a Distinction in MSc AI from Imperial College London and a 1st in BSc Theoretical Physics from the University of Manchester."
+  bio              : "Research student using machine learning to study links between the eye and systemic disease at <a href='https://www.ucl.ac.uk/health-informatics/'>UCL</a>, <a href='https://www.moorfields.nhs.uk/'>Moorfields</a>, and <a href='https://www.ucl.ac.uk/medical-image-computing/'>CMIC</a>. Graduated with a MSc AI (Dist) from Imperial College London and a BSc Theoretical Physics (1st) from the University of Manchester."
   location         : 
   employer         : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "dominicwllmsn"
   vine             :
   weibo            :
   xing             :
