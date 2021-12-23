@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Dominic Williamson"
 title_separator          : "-"
 name                     : &name "Dominic Williamson"
-description              : &description "MSc Student at Imperial College London"
+description              : &description "Research Student at University College London"
 url                      : "https://dominicwllmsn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dominicwllmsn/dominicwllmsn.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dominic Williamson"
   avatar           : "profile.png"
-  bio              : "MSc student studying Artificial Intelligence at <a href='https://www.imperial.ac.uk/computing/research/artificial-intelligence/'>Imperial College London</a>. Graduated with a 1st in Theoretical Physics from the University of Manchester."
+  bio              : "Research student using machine learning to study links between the eye and systemic disease at <a href='https://www.ucl.ac.uk/health-informatics/'>UCL IHI</a>, <a href='https://www.moorfields.nhs.uk/'>Moorfields</a>, and <a href='https://www.ucl.ac.uk/medical-image-computing/'>CMIC</a>. Graduated with a Distinction in MSc AI from Imperial College London and a 1st in BSc Theoretical Physics from the University of Manchester."
   location         : 
   employer         : 
   googlescholar    : 
